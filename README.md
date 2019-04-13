@@ -11,7 +11,7 @@ git clone https://github.com/Tony607/tf_jetson_nano
 ### Install required libraries for your development machine
 `pip3 install -r requirements.txt`
 
-### Step1: Convert Keras model into TensorRT model (On development machine/[Google Colab](https://colab.research.google.com))
+### Step1: Convert Keras model into TensorRT model (On development machine/[Google Colab](https://colab.research.google.com/github/Tony607/tf_jetson_nano/blob/master/Step1_Colab_TensorRT.ipynb))
 Start a terminal, then run,
 ```
 jupyter notebook
